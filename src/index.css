@@ -1,0 +1,14 @@
+body {
+    background-color: #131722;
+    color: #fff;
+    font-family: 'segoe ui light';
+}
+.bdr{
+    height: 1px;
+    background-color: #666;
+    margin: 20px;
+}
+a,a:hover{
+    text-decoration: none;
+    color: #fff;
+}
